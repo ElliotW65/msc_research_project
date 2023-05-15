@@ -1,8 +1,8 @@
-# MSc Thesis
+# Optimisation of Microgrid Design Considering the Presence of Electric Vehicles
 
 **Overview:**
 
-Optimise the design of a residential micro electrical grid with varying numbers of electric vehicles (EV), using NSGA-II for grid design and Particle Swarm Optimization for EV charging/discharging. EV discharging provided energy back to the grid to support a high number of renewable energy sources in the grid. Built a multi-agent system that incorporated real geospatial data from a capital city's road map to evaluate solutions.
+Optimise the design of a residential micro electrical grid with varying numbers of electric vehicles (EV), using NSGA-II for grid design and Particle Swarm Optimization for EV charging/discharging. EV discharging provides energy back to the grid to support a high number of renewable energy sources. A multi-agent system that incorporates real geospatial data from a Edinburgh's road map is used to evaluate solutions.
 
 **Results:**
 
